@@ -1,5 +1,5 @@
 <h1 align="center">
-  I'm Ritik _ Anand
+  👋 I'm Ritik _ Anand 👨‍💻
 </h1>
 
 <p align="center">
