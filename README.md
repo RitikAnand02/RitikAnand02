@@ -11,8 +11,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RitikAnand02&label=Profile%20views&color=0e75b6&style=flat" alt="aman-kr-1111" /> </p>
 
----
-
 ### ✨ About Me
 
 I'm a passionate Full-Stack Java Developer with a love for coding, problem-solving, and exploring new technologies. My journey in tech began with the basics of C and has expanded to a wide range of tools and frameworks, enabling me to build dynamic and responsive web applications.
