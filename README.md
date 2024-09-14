@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=007BFF&center=true&vCenter=true&lines= Full-Stack+Java+Developer; Coding+Pragmatists; Tech+Explorer; Always+Learning+New+Things!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=007BFF&center=true&vCenter=true&lines=Full-Stack+Developer;Coding+Pragmatists;Tech+Explorer; Always+Learning+New+Things!" alt="Typing SVG">
 </p>
 
 ---
@@ -31,7 +31,7 @@ I'm a passionate Full-Stack Java Developer with a love for coding, problem-solvi
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black) 
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
-(<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>)
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 - **Backend Development:**  
   ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=node.js&logoColor=white)
@@ -39,7 +39,7 @@ I'm a passionate Full-Stack Java Developer with a love for coding, problem-solvi
 
 - **Database Management:**  
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
- (<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>)
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 
 - **Version Control:**  
   ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
@@ -47,8 +47,8 @@ I'm a passionate Full-Stack Java Developer with a love for coding, problem-solvi
 
 - **Other Tools:**  
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=flat&logo=visual-studio-code&logoColor=white)
-  ![Illustrator](<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>)
-( <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>)
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   
 
 ---
