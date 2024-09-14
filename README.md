@@ -71,7 +71,7 @@ I'm a passionate Full-Stack Java Developer with a love for coding, problem-solvi
 
 ### 🚀 Notable Projects
 
-- **[E - Commerce Website](https://weather-app-project01.netlify.app/)**  
+- **[E - Commerce Website](https://online-bazzar.netlify.app/)**  
 Create a fully responsive e-commerce website using HTML, CSS, and JavaScript, featuring email authentication for secure user registration, login, and password recovery functionality, enhancing user experience and security.
 
 - **[Weather App Website](https://weather-app-project01.netlify.app/)**  
