@@ -78,12 +78,12 @@ I'm a passionate Full-Stack Java Developer with a love for coding, problem-solvi
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aman-kr-1111&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RitikAnand02&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </div>
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Aman-kr-1111&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=RitikAnand02&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </div>
 
 ---
