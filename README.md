@@ -129,3 +129,15 @@ Feel free to check out more on my [GitHub repositories](https://github.com/Ritik
 - [Instagram](https://www.instagram.com/itz_ritik_agarwal_02/)
 - [Netlify](https://app.netlify.com/teams/ritikanand02/sites)
 - [Hashnode](https://hashnode.com/@Ritikanand02)
+
+---
+
+### 🏅 Achievements
+- 🏆 **Award 1** - Received for excellence in XYZ.
+- 🥇 **Award 2** - Recognized for ABC skills.
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF0000&center=true&vCenter=true&lines=Thanks+for+visiting!" alt="Typing SVG">
+</p>
