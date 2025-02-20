@@ -1,6 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png"  width="50px" /> &nbsp; Welcome  &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-  32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px"/>
-
-
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png"  width="50px" /> &nbsp; Welcome  &nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png"  width="50px" />
 <h1 align="center">
   👋 I'm Ritik _ Anand 👨‍💻
 </h1>
@@ -144,3 +142,6 @@ Feel free to check out more on my [GitHub repositories](https://github.com/Ritik
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF0000&center=true&vCenter=true&lines=Thanks+for+visiting!" alt="Typing SVG">
 </p>
+
+---
+<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ritik_Anand" /></a>
