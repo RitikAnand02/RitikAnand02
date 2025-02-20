@@ -1,4 +1,7 @@
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png"  width="50px" /> &nbsp; Welcome  &nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png"  width="50px" />
+
+---
+
 <h1 align="center">
   👋 I'm Ritik _ Anand 👨‍💻
 </h1>
@@ -54,6 +57,8 @@ I'm a passionate Full-Stack Java Developer with a love for coding, problem-solvi
   ![Eclipse](https://img.shields.io/badge/Eclipse%20Studio%20Code-0078D4.svg?style=flat&logo=Eclipse&logoColor=white)
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+
+ ---
  
   
 ## 📚 Current Learning Goals
@@ -77,15 +82,21 @@ I'm a passionate Full-Stack Java Developer with a love for coding, problem-solvi
   <img src="https://streak-stats.demolab.com/?user=RitikAnand02&theme=dark&hide_border=true" alt="GitHub Streak">
 </div>
 
+---
+
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RitikAnand02&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </div>
 
+---
+
 ### 🔝 Top Contributed Repo
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=RitikAnand02&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </div>
+
+---
 
 ### 📊 Contribution Graph
 <p align="center">
@@ -117,6 +128,8 @@ Feel free to check out more on my [GitHub repositories](https://github.com/Ritik
   <summary>Click to read more</summary>
   <p>Started with the basics of C, dabbled in Java and C++, and now building dynamic and responsive web applications with HTML, CSS, JavaScript, React, and Bootstrap. My journey in tech has been fueled by curiosity and the thrill of solving complex problems.</p>
 </details>
+
+---
 
 ### ⚡ Fun Facts
 <details>
