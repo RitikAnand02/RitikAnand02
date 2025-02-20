@@ -87,6 +87,11 @@ I'm a passionate Full-Stack Java Developer with a love for coding, problem-solvi
   <img src="https://github-contributor-stats.vercel.app/api?username=RitikAnand02&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </div>
 
+### 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RitikAnand02&theme=react-dark&hide_border=true" alt="Contribution Graph">
+</p>
+
 ---
 
 ### 🚀 Notable Projects
