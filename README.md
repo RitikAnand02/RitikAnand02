@@ -41,11 +41,14 @@ I'm a passionate Full-Stack Java Developer with a love for coding, problem-solvi
 - **Backend Development:**  
   ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-404D59.svg?style=flat&logo=express&logoColor=white)
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 
 - **Database Management:**
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  
 
 - **Version Control:**
   ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
@@ -54,16 +57,14 @@ I'm a passionate Full-Stack Java Developer with a love for coding, problem-solvi
 - **Other Tools:**  
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=flat&logo=visual-studio-code&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/Eclipse%20Studio%20Code-0078D4.svg?style=flat&logo=Eclipse&logoColor=white)
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+ <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"  alt="illustrator" width="40" height="40"/> </a>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
  ---
  
   
 ## 📚 Current Learning Goals
-
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  
 
 ---
 
