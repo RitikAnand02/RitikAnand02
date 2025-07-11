@@ -25,6 +25,7 @@ I'm a passionate Full-Stack Java Developer with a love for coding, problem-solvi
 ---
 
 ### 🛠️ Tech Stack
+
 - **Programming Languages:**  
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
   ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) 
